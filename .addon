@@ -1,8 +1,8 @@
 {
-  "Title": "Burdle Base",
+  "Title": "Burdle",
   "Type": "map",
   "Org": "degg",
-  "Ident": "burdle_base",
+  "Ident": "burdle_map",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
