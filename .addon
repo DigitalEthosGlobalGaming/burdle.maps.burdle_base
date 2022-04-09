@@ -1,0 +1,18 @@
+{
+  "Title": "Burdle Base",
+  "Type": "map",
+  "Org": "degg",
+  "Ident": "burdle_base",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "burdle"
+    ]
+  }
+}
